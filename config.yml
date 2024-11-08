@@ -144,6 +144,8 @@ params:
         url: archives
       - name: Tags
         url: tags
+      - name: Posts
+        url: posts
 
   homeInfoParams:
     Title: "PaperMod's Demo"
