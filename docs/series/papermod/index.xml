@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PaperMod</title>
+    <title>PaperMod on Rach</title>
     <link>https://Rchh1125.github.io/series/papermod/</link>
-    <description>Recent content on PaperMod</description>
+    <description>Recent content in PaperMod on Rach</description>
     <image>
-      <title>PaperMod</title>
+      <title>Rach</title>
       <url>https://Rchh1125.github.io/images/papermod-cover.png</url>
       <link>https://Rchh1125.github.io/images/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>

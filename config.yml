@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://Rchh1125.github.io/"
-title: PaperMod
+title: Rach
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 pagination:
   pagerSize: 5
@@ -133,9 +133,9 @@ params:
   images: ["images/papermod-cover.png"]
 
   profileMode:
-    enabled: false
+    enabled: true
     title: PaperMod
-    imageUrl: "#"
+    imageUrl: "image/msg.png"
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
@@ -166,7 +166,7 @@ params:
     - name: X
       title: Share PaperMod on X/Twitter
       url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
+    - name: QQ
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/adityatelange"
 
