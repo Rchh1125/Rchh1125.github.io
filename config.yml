@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://Rchh1125.github.io/"
 title: Rach
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+copyright: "© [Rach](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 pagination:
   pagerSize: 5
 theme: [hugo-PaperMod]
@@ -140,12 +140,12 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
-      - name: Posts
-        url: posts
+      - name: Sports
+        url: Sports
+      - name: Live
+        url: Live
+      - name: Interest
+        url: Interest
 
   homeInfoParams:
     Title: "PaperMod's Demo"
