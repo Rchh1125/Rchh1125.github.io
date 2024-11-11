@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Post on Rach</title>
-    <link>http://localhost:1313/categories/post/</link>
+    <link>https://Rchh1125.github.io/categories/post/</link>
     <description>Recent content in Post on Rach</description>
     <image>
       <title>Rach</title>
-      <url>http://localhost:1313/images/papermod-cover.png</url>
-      <link>http://localhost:1313/images/papermod-cover.png</link>
+      <url>https://Rchh1125.github.io/images/papermod-cover.png</url>
+      <link>https://Rchh1125.github.io/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>Rach</copyright>
     <lastBuildDate>Sat, 09 Nov 2024 00:54:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Rchh1125.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>http://localhost:1313/posts/mypost/</link>
+      <link>https://Rchh1125.github.io/posts/mypost/</link>
       <pubDate>Sat, 09 Nov 2024 00:54:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/mypost/</guid>
+      <guid>https://Rchh1125.github.io/posts/mypost/</guid>
       <description>&lt;p&gt;aaaaa&lt;/p&gt;</description>
     </item>
   </channel>
