@@ -31,10 +31,11 @@ languages:
       series: series
     menu:
       main:
-        - name: Archive
-          url: archives
+        - name: About
+          url: about/
+      
           weight: 5
-        - name: Search
+        - name: Serch
           url: search/
           weight: 10
         - name: Tags
