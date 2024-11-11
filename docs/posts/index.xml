@@ -15,11 +15,32 @@
     <lastBuildDate>Sat, 09 Nov 2024 00:54:00 +0800</lastBuildDate>
     <atom:link href="https://Rchh1125.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Markdown Syntax Guide For L2</title>
+      <link>https://Rchh1125.github.io/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rchh1125.github.io/posts/markdown-syntax.fr/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>https://Rchh1125.github.io/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rchh1125.github.io/posts/markdown-syntax.fa/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
       <title>Mypost</title>
       <link>https://Rchh1125.github.io/posts/mypost/</link>
       <pubDate>Sat, 09 Nov 2024 00:54:00 +0800</pubDate>
       <guid>https://Rchh1125.github.io/posts/mypost/</guid>
       <description>&lt;p&gt;aaaaa&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Myfirstpost</title>
+      <link>https://Rchh1125.github.io/posts/myfirstpost/</link>
+      <pubDate>Sat, 09 Nov 2024 00:47:22 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/posts/myfirstpost/</guid>
+      <description>&lt;p&gt;111111&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>

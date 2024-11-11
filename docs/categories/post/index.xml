@@ -12,14 +12,31 @@
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>Rach</copyright>
-    <lastBuildDate>Sat, 09 Nov 2024 00:54:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 17:32:09 +0800</lastBuildDate>
     <atom:link href="https://Rchh1125.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://Rchh1125.github.io/sports/second/</link>
+      <pubDate>Mon, 11 Nov 2024 17:32:09 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/sports/second/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mypost</title>
       <link>https://Rchh1125.github.io/posts/mypost/</link>
       <pubDate>Sat, 09 Nov 2024 00:54:00 +0800</pubDate>
       <guid>https://Rchh1125.github.io/posts/mypost/</guid>
       <description>&lt;p&gt;aaaaa&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mypost</title>
+      <link>https://Rchh1125.github.io/sports/sports/</link>
+      <pubDate>Sat, 09 Nov 2024 00:54:00 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/sports/sports/</guid>
+      <description>&lt;p&gt;I LOVE PLAY TEnnis&lt;/p&gt;
+&lt;p&gt;图片格式如下&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://Rchh1125.github.io/image/IMG_4916.png&#34; alt=&#34;tennis&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

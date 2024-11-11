@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>Rach</copyright>
-    <lastBuildDate>Sat, 09 Nov 2024 00:54:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 17:32:09 +0800</lastBuildDate>
     <atom:link href="https://Rchh1125.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install / Update PaperMod</title>
@@ -29,11 +29,70 @@
       <description>Learn About All Features in PaperMod</description>
     </item>
     <item>
+      <title>Markdown Syntax Guide For L2</title>
+      <link>https://Rchh1125.github.io/posts/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rchh1125.github.io/posts/markdown-syntax.fr/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide For RTL</title>
+      <link>https://Rchh1125.github.io/posts/markdown-syntax.fa/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://Rchh1125.github.io/posts/markdown-syntax.fa/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>FAQs / How To&#39;s Guide</title>
+      <link>https://Rchh1125.github.io/posts/papermod/papermod-faq/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Rchh1125.github.io/posts/papermod/papermod-faq/</guid>
+      <description>We&amp;rsquo;ll try to answer frequently asked qestions by users.</description>
+    </item>
+    <item>
+      <title>Social-Icons / Share-Icons</title>
+      <link>https://Rchh1125.github.io/posts/papermod/papermod-icons/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Rchh1125.github.io/posts/papermod/papermod-icons/</guid>
+      <description>List of all Icons supported by PaperMod</description>
+    </item>
+    <item>
+      <title>Variables | Front Matter</title>
+      <link>https://Rchh1125.github.io/posts/papermod/papermod-variables/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://Rchh1125.github.io/posts/papermod/papermod-variables/</guid>
+      <description>List of Front Matter variables used by PaperMod</description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>https://Rchh1125.github.io/sports/second/</link>
+      <pubDate>Mon, 11 Nov 2024 17:32:09 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/sports/second/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mypost</title>
       <link>https://Rchh1125.github.io/posts/mypost/</link>
       <pubDate>Sat, 09 Nov 2024 00:54:00 +0800</pubDate>
       <guid>https://Rchh1125.github.io/posts/mypost/</guid>
       <description>&lt;p&gt;aaaaa&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mypost</title>
+      <link>https://Rchh1125.github.io/sports/sports/</link>
+      <pubDate>Sat, 09 Nov 2024 00:54:00 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/sports/sports/</guid>
+      <description>&lt;p&gt;I LOVE PLAY TEnnis&lt;/p&gt;
+&lt;p&gt;图片格式如下&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://Rchh1125.github.io/image/IMG_4916.png&#34; alt=&#34;tennis&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Myfirstpost</title>
+      <link>https://Rchh1125.github.io/posts/myfirstpost/</link>
+      <pubDate>Sat, 09 Nov 2024 00:47:22 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/posts/myfirstpost/</guid>
+      <description>&lt;p&gt;111111&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
