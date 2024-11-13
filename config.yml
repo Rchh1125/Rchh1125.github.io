@@ -79,11 +79,11 @@ params:
     # imageHeight: 120
     buttons:  # 主页下方按钮
       - name: Myself
-        url: Myself
+        url: myself
       - name: Life
-        url: Life
+        url: life
       - name: Personal work
-        url: Personal work
+        url: personal work
 
   homeInfoParams:
     Title: "PaperMod's Demo"
