@@ -1,11 +1,11 @@
 ---
-title: "Something about me"
+title: "Music"
 author: "Rach"
-date: "2024-11-11T17:32:09+08:00"
-lastmod: "2024-11-11T17:32:09+08:00"
+date: "2024-11-09T00:54:00+08:00"
+lastmod: "2024-11-09T00:54:00+08:00"
 draft: true
 summary: ""
-description: ""
+description: "My favourite music"
 tags: [""]
 categories: "post"
 # cover:
@@ -15,4 +15,7 @@ hideMeta: false
 searchHidden: false
 ShowBreadCrumbs: true
 ShowReadingTime: false
----
+--- 
+
+As a music lover
+
