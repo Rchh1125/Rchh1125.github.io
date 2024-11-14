@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on Rach</title>
+    <link>https://Rchh1125.github.io/tags/life/</link>
+    <description>Recent content in Life on Rach</description>
+    <image>
+      <title>Rach</title>
+      <url>https://Rchh1125.github.io/images/papermod-cover.png</url>
+      <link>https://Rchh1125.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en</language>
+    <copyright>Rach</copyright>
+    <lastBuildDate>Sat, 09 Nov 2024 00:54:00 +0800</lastBuildDate>
+    <atom:link href="https://Rchh1125.github.io/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basketball🏀</title>
+      <link>https://Rchh1125.github.io/life/basketball/</link>
+      <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/life/basketball/</guid>
+      <description>Basketball is part of my live</description>
+    </item>
+  </channel>
+</rss>

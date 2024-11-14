@@ -19,4 +19,4 @@ ShowReadingTime: false
 
 I was introduced to calligraphy when i was a child.👶Until now I practice calligraphy regularly, ✍️It's something that can calm me down when I'm facing difficulities.📝
 
-{{<figure src="/image/8.jpg" alt="my calligraphy" width="40%" float="left">}}
+{{<figure src="/image/8.jpg" title="my work" alt="my calligraphy" width="40%" float="left">}}

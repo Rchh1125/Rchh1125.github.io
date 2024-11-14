@@ -19,3 +19,7 @@ weight: 3
 --- 
  
  Unlike most other photographers, I love film cameras🎞️,and the vintage feel of film cameras is something I really enjoy!📷
+
+ {{<figure src="/image/9.jpg" title="my works" alt="my photography" width="100%" float="left">}}
+{{<figure src="/image/10.jpg" alt="my photography" width="100%" float="left">}}
+ {{<figure src="/image/11.jpg" alt="my photography" width="100%" float="left">}}
