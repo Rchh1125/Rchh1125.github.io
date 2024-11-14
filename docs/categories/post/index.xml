@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.138.0</generator>
     <language>en</language>
     <copyright>Rach</copyright>
-    <lastBuildDate>Mon, 11 Nov 2024 17:32:09 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 00:54:00 +0800</lastBuildDate>
     <atom:link href="https://Rchh1125.github.io/categories/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ME and COFFEE☕️</title>
@@ -22,7 +22,7 @@
       <description>I became a barista</description>
     </item>
     <item>
-      <title>ME and Photography📸</title>
+      <title>ME and PHOTOGRAPHY📸</title>
       <link>https://Rchh1125.github.io/myself/photography/</link>
       <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
       <guid>https://Rchh1125.github.io/myself/photography/</guid>
@@ -36,42 +36,53 @@
       <description>Basketball is part of my live</description>
     </item>
     <item>
-      <title>ME and Calligraphy✍️</title>
+      <title>Collection🐻</title>
+      <link>https://Rchh1125.github.io/life/mycollection/</link>
+      <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/life/mycollection/</guid>
+      <description>Tennis is part of my live</description>
+    </item>
+    <item>
+      <title>Legal environment of business</title>
+      <link>https://Rchh1125.github.io/personalwork/legalenvironmentofbusiness/</link>
+      <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/personalwork/legalenvironmentofbusiness/</guid>
+      <description>A case analyze</description>
+    </item>
+    <item>
+      <title>ME and CALLIGRAPHY✍️</title>
       <link>https://Rchh1125.github.io/myself/calligraphy/</link>
       <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
       <guid>https://Rchh1125.github.io/myself/calligraphy/</guid>
       <description>My Calligraphy</description>
     </item>
     <item>
-      <title>ME and Music🎵</title>
+      <title>ME and MUSIC🎵</title>
       <link>https://Rchh1125.github.io/myself/music/</link>
       <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
       <guid>https://Rchh1125.github.io/myself/music/</guid>
       <description>My favourite music</description>
     </item>
     <item>
-      <title>Something about me</title>
-      <link>https://Rchh1125.github.io/sports/second/</link>
-      <pubDate>Mon, 11 Nov 2024 17:32:09 +0800</pubDate>
-      <guid>https://Rchh1125.github.io/sports/second/</guid>
-      <description></description>
+      <title>Reading report</title>
+      <link>https://Rchh1125.github.io/personalwork/readingreport/</link>
+      <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/personalwork/readingreport/</guid>
+      <description>中文阅读</description>
     </item>
     <item>
-      <title>Mypost</title>
-      <link>https://Rchh1125.github.io/posts/mypost/</link>
-      <pubDate>Sat, 09 Nov 2024 00:54:00 +0800</pubDate>
-      <guid>https://Rchh1125.github.io/posts/mypost/</guid>
-      <description>&lt;p&gt;aaaaa&lt;/p&gt;</description>
+      <title>Tennis🎾</title>
+      <link>https://Rchh1125.github.io/life/tennis/</link>
+      <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/life/tennis/</guid>
+      <description>Tennis is part of my live</description>
     </item>
     <item>
-      <title>Mypost</title>
-      <link>https://Rchh1125.github.io/sports/sports/</link>
-      <pubDate>Sat, 09 Nov 2024 00:54:00 +0800</pubDate>
-      <guid>https://Rchh1125.github.io/sports/sports/</guid>
-      <description>&lt;p&gt;I LOVE PLAY TEnnis&lt;/p&gt;
-&lt;p&gt;图片格式如下&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://Rchh1125.github.io/image/IMG_4916.png&#34; alt=&#34;tennis&#34;  /&gt;
-&lt;/p&gt;</description>
+      <title>Travel Plan✈️</title>
+      <link>https://Rchh1125.github.io/life/futureplan/</link>
+      <pubDate>Thu, 14 Nov 2024 00:54:00 +0800</pubDate>
+      <guid>https://Rchh1125.github.io/life/futureplan/</guid>
+      <description>Tennis is part of my live</description>
     </item>
   </channel>
 </rss>

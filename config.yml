@@ -39,8 +39,8 @@ languages:
         - name: Serch
           url: search/
           weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+        - name: Instagram
+          url: https://www.instagram.com/nameisrachh?igsh=MTQwamVoa3hxODQxZA%3D%3D&utm_source=qr
 
 outputs:
   home:
@@ -82,8 +82,8 @@ params:
         url: myself
       - name: Life
         url: life
-      - name: Personal work
-        url: personal work
+      - name: Personal works
+        url: personalwork
 
   homeInfoParams:
     Title: "PaperMod's Demo"

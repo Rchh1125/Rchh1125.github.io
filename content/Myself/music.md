@@ -1,5 +1,5 @@
 ---
-title: "ME and Music🎵"
+title: "ME and MUSIC🎵"
 author: "Rach"
 date: "2024-11-14T00:54:00+08:00"
 lastmod: "2024-11-09T00:54:00+08:00"
